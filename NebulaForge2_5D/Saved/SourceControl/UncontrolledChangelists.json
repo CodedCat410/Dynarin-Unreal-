@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/GitHub/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/BP_Defualt.uasset",
+				"D:/GitHub/Dynarin-Unreal-/NebulaForge2_5D/Content/Pixel/Tiles/Castle/Castle.uasset",
+				"D:/GitHub/Dynarin-Unreal-/NebulaForge2_5D/Content/Pixel/Maps/M_2D_Fix.umap",
+				"D:/GitHub/Dynarin-Unreal-/NebulaForge2_5D/Content/Pixel/Tiles/background1_Mat.uasset",
 				"C:/Users/Rogan/Documents/GitHub/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/BP_Defualt.uasset",
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Objects/166306__fantozzi__mco_walk_h02.uasset",
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Objects/195013__punpcklbw__walk00.uasset",
