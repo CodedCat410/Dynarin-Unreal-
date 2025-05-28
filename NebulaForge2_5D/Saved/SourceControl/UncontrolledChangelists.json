@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"D:/_Repos/PostApocalyptic/Dynarin-Unreal-/NebulaForge2_5D/Content/Pixel/Tiles/Tiles/Start.uasset",
 				"D:/_Repos/PostApocalyptic/Dynarin-Unreal-/NebulaForge2_5D/Content/Pixel/Tiles/Tiles/mainlev_buildPadded_TileSet.uasset",
 				"D:/_Repos/PostApocalyptic/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/BP_Defualt.uasset",
@@ -101,6 +102,8 @@
 				"C:/Users/Rogan/Documents/GitHub/Dynarin-Unreal-/NebulaForge2_5D/Content/Pixel/Tiles/Castle/Castle.uasset",
 				"C:/Users/Rogan/Documents/GitHub/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/Bosses/Pixel_FAiry/Spel.uasset",
 				"C:/Users/Rogan/Documents/GitHub/Dynarin-Unreal-/NebulaForge2_5D/Content/Pixel/Maps/M_2D_Fix.umap",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Objects/166306__fantozzi__mco_walk_h02.uasset",
@@ -2042,6 +2045,7 @@
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/Bosses/Royal_Executioner/Pixel/Run.uasset",
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/Bosses/Royal_Executioner/Pixel/Run1.uasset",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/Bosses/Royal_Executioner/Pixel/Sprites/Run/Run1.uasset",
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/Bosses/Royal_Executioner/Pixel/Sprites/Run/Run_Sprite_0.uasset",
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/Bosses/Royal_Executioner/Pixel/Sprites/Run/Run_Sprite_1.uasset",
@@ -2054,6 +2058,8 @@
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/Bosses/Royal_Executioner/Pixel/Sprites/Run/Run.uasset",
 				"D:/_Repos/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/Bosses/Royal_Executioner/Pixel/Sprites/Wake/Wait.uasset",
 =======
+=======
+>>>>>>> Stashed changes
 				"D:/_Repos/PostApocalyptic/Dynarin-Unreal-/NebulaForge2_5D/Content/Pixel/Tiles/Tiles/Start.uasset",
 				"D:/_Repos/PostApocalyptic/Dynarin-Unreal-/NebulaForge2_5D/Content/Pixel/Tiles/Tiles/mainlev_buildPadded_TileSet.uasset",
 				"D:/_Repos/PostApocalyptic/Dynarin-Unreal-/NebulaForge2_5D/Content/Blueprints/Player/BP_Defualt.uasset",
