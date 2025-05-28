@@ -2,6 +2,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {"EventName":"StartSession","TimestampUTC":1748451662.674000,"RecordId":0,"ProjectName":"NebulaForge2_5D","ProjectID":"00000000000000000000000000000000","Session_ID":"{C89BC281-4C69-1436-F68E-E0A7A00E4C63}","Session_Label":"","Session_StartUTC":1748451662.674,"Build_Configuration":"Development","Build_IsInternalBuild":false,"Build_IsPerforceBuild":false,"Build_IsPromotedBuild":true,"Build_BranchName":"++ue5+release-5.4","Build_Changelist":35576357,"Hardware_Platform":"Windows","Hardware_GPU":"","Hardware_CPU":"12th Gen Intel(R) Core(TM) i5-12400","Hardware_CPU_Cores_Physical":6,"Hardware_CPU_Cores_Logical":12,"Hardware_RAM":16908730368,"Hardware_ComputerName":"TXL_17","Config_IsEditor":true,"Config_IsUnattended":false,"Config_IsBuildMachine":false,"Config_IsRunningCommandlet":false,"Config_IsDebuggerPresent":false}
 {"EventName":"Editor.AssetRegistry.Startup","TimestampUTC":1748451665.690000,"RecordId":1,"ProjectName":"NebulaForge2_5D","ProjectID":"00000000000000000000000000000000","Session_ID":"{C89BC281-4C69-1436-F68E-E0A7A00E4C63}","Session_Label":"","Session_StartUTC":1748451662.674,"Build_Configuration":"Development","Build_IsInternalBuild":false,"Build_IsPerforceBuild":false,"Build_IsPromotedBuild":true,"Build_BranchName":"++ue5+release-5.4","Build_Changelist":35576357,"Hardware_Platform":"Windows","Hardware_GPU":"","Hardware_CPU":"12th Gen Intel(R) Core(TM) i5-12400","Hardware_CPU_Cores_Physical":6,"Hardware_CPU_Cores_Logical":12,"Hardware_RAM":16908730368,"Hardware_ComputerName":"TXL_17","Config_IsEditor":true,"Config_IsUnattended":false,"Config_IsBuildMachine":false,"Config_IsRunningCommandlet":false,"Config_IsDebuggerPresent":false,"SchemaVersion":1,"Duration":0.003261,"StartedAsyncGather":true}
 {"EventName":"Span","TimestampUTC":1748451670.220000,"RecordId":2,"ProjectName":"NebulaForge2_5D","ProjectID":"00000000000000000000000000000000","Session_ID":"{C89BC281-4C69-1436-F68E-E0A7A00E4C63}","Session_Label":"","Session_StartUTC":1748451662.674,"Build_Configuration":"Development","Build_IsInternalBuild":false,"Build_IsPerforceBuild":false,"Build_IsPromotedBuild":true,"Build_BranchName":"++ue5+release-5.4","Build_Changelist":35576357,"Hardware_Platform":"Windows","Hardware_GPU":"","Hardware_CPU":"12th Gen Intel(R) Core(TM) i5-12400","Hardware_CPU_Cores_Physical":6,"Hardware_CPU_Cores_Logical":12,"Hardware_RAM":16908730368,"Hardware_ComputerName":"TXL_17","Config_IsEditor":true,"Config_IsUnattended":false,"Config_IsBuildMachine":false,"Config_IsRunningCommandlet":false,"Config_IsDebuggerPresent":false,"MapName":"None","SchemaVersion":1,"Span_Name":"Editor.Boot","Span_GUID":"FE6C5C9A4C1CC638BABB6A9CDFC5E766","Span_ParentName":"Editor","Span_ThreadId":1236,"Span_Depth":2,"Span_StartUTC":1748451662.696,"Span_EndUTC":1748451670.22,"Span_TimeInSec":7.524}
@@ -79,6 +80,8 @@
 {"EventName":"Span","TimestampUTC":1748451692.287000,"RecordId":74,"ProjectName":"NebulaForge2_5D","ProjectID":"00000000000000000000000000000000","Session_ID":"{C89BC281-4C69-1436-F68E-E0A7A00E4C63}","Session_Label":"","Session_StartUTC":1748451662.674,"Build_Configuration":"Development","Build_IsInternalBuild":false,"Build_IsPerforceBuild":false,"Build_IsPromotedBuild":true,"Build_BranchName":"++ue5+release-5.4","Build_Changelist":35576357,"Hardware_Platform":"Windows","Hardware_GPU":"","Hardware_CPU":"12th Gen Intel(R) Core(TM) i5-12400","Hardware_CPU_Cores_Physical":6,"Hardware_CPU_Cores_Logical":12,"Hardware_RAM":16908730368,"Hardware_ComputerName":"TXL_17","Config_IsEditor":true,"Config_IsUnattended":false,"Config_IsBuildMachine":false,"Config_IsRunningCommandlet":false,"Config_IsDebuggerPresent":false,"MapName":"M_2D_Fix","SchemaVersion":1,"Span_Name":"Editor.Interact","Span_GUID":"8101BE5943653643ADD604AD0522CB5C","Span_ParentName":"Editor","Span_ThreadId":1236,"Span_Depth":2,"Span_StartUTC":1748451672.052,"Span_EndUTC":1748451692.287,"Span_TimeInSec":20.235}
 {"EventName":"EndSession","TimestampUTC":1748451692.309000,"RecordId":75,"ProjectName":"NebulaForge2_5D","ProjectID":"00000000000000000000000000000000","Session_ID":"{C89BC281-4C69-1436-F68E-E0A7A00E4C63}","Session_Label":"","Session_StartUTC":1748451662.674,"Build_Configuration":"Development","Build_IsInternalBuild":false,"Build_IsPerforceBuild":false,"Build_IsPromotedBuild":true,"Build_BranchName":"++ue5+release-5.4","Build_Changelist":35576357,"Hardware_Platform":"Windows","Hardware_GPU":"","Hardware_CPU":"12th Gen Intel(R) Core(TM) i5-12400","Hardware_CPU_Cores_Physical":6,"Hardware_CPU_Cores_Logical":12,"Hardware_RAM":16908730368,"Hardware_ComputerName":"TXL_17","Config_IsEditor":true,"Config_IsUnattended":false,"Config_IsBuildMachine":false,"Config_IsRunningCommandlet":false,"Config_IsDebuggerPresent":false}
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -1438,6 +1441,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
